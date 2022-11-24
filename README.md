@@ -1,0 +1,1 @@
+![pycharm跑通截图](README.assets/pycharm%E8%B7%91%E9%80%9A%E6%88%AA%E5%9B%BE.PNG)
