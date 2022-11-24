@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a62a967-c892-45b4-a19d-7a0fbc28ab30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lSiwceEP6vqU6LZWwoi6rXVghZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/tensorflow环境" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.thelast">
+    <configuration name="coniris" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coniris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iris1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iris1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_cnn_cifar10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码/tensorflow_cnn_cifar10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_cnn_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码/tensorflow_cnn_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thelast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\智能小车\代码\thelast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.thelast" />
+        <item itemvalue="Python.coniris" />
+        <item itemvalue="Python.iris1" />
+        <item itemvalue="Python.tensorflow_cnn_cifar10" />
+        <item itemvalue="Python.tensorflow_cnn_mnist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a62a967-c892-45b4-a19d-7a0fbc28ab30" name="Default Changelist" comment="" />
+      <created>1607597132382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607597132382</updated>
+      <workItem from="1607597148185" duration="2565000" />
+      <workItem from="1607927809797" duration="4586000" />
+      <workItem from="1608006631810" duration="3454000" />
+      <workItem from="1608018701171" duration="752000" />
+      <workItem from="1608019474986" duration="1402000" />
+      <workItem from="1608033787959" duration="2645000" />
+      <workItem from="1608274957756" duration="5693000" />
+      <workItem from="1608344833022" duration="6069000" />
+      <workItem from="1608352448382" duration="515000" />
+      <workItem from="1608361482577" duration="7973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="226" key="FileChooserDialogImpl" timestamp="1607938405181">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="504" y="226" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1607938405181" />
+    <state width="1397" height="243" key="GridCell.Tab.0.bottom" timestamp="1608370257063">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="243" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1608370257063" />
+    <state width="1397" height="243" key="GridCell.Tab.0.center" timestamp="1608370257063">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="243" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1608370257063" />
+    <state width="1397" height="243" key="GridCell.Tab.0.left" timestamp="1608370257063">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="243" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1608370257063" />
+    <state width="1397" height="243" key="GridCell.Tab.0.right" timestamp="1608370257063">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="243" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1608370257063" />
+    <state width="1397" height="304" key="GridCell.Tab.1.bottom" timestamp="1608350907769">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="304" key="GridCell.Tab.1.bottom/0.0.1440.929@0.0.1440.929" timestamp="1608350907769" />
+    <state width="1397" height="304" key="GridCell.Tab.1.center" timestamp="1608350907769">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="304" key="GridCell.Tab.1.center/0.0.1440.929@0.0.1440.929" timestamp="1608350907769" />
+    <state width="1397" height="304" key="GridCell.Tab.1.left" timestamp="1608350907769">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="304" key="GridCell.Tab.1.left/0.0.1440.929@0.0.1440.929" timestamp="1608350907769" />
+    <state width="1397" height="304" key="GridCell.Tab.1.right" timestamp="1608350907769">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="304" key="GridCell.Tab.1.right/0.0.1440.929@0.0.1440.929" timestamp="1608350907769" />
+    <state x="222" y="107" key="SettingsEditor" timestamp="1608006909170">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="222" y="107" key="SettingsEditor/0.0.1440.929@0.0.1440.929" timestamp="1608006909170" />
+    <state x="405" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1608361489065">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="405" y="289" key="com.intellij.ide.util.TipDialog/0.0.1440.929@0.0.1440.929" timestamp="1608361489065" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$03_keras_mnist.coverage" NAME="03_keras_mnist Coverage Results" MODIFIED="1608008500844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/15_Keras深度学习框架【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$16_DNN.coverage" NAME="16_DNN Coverage Results" MODIFIED="1608006668719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/已看资料/机器学习/10_TensorFlow深入、TensorBoard可视化【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$iris.coverage" NAME="iris Coverage Results" MODIFIED="1608020208968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tensorflow_cnn_mnist.coverage" NAME="tensorflow_cnn_mnist Coverage Results" MODIFIED="1608276770844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$coniris.coverage" NAME="coniris Coverage Results" MODIFIED="1608369077939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$11_placeholder__1_.coverage" NAME="11_placeholder (1) Coverage Results" MODIFIED="1608018903248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/09_深度学习、TensorFlow安装和实现线性回归【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$16_DNN__1_.coverage" NAME="16_DNN (1) Coverage Results" MODIFIED="1608020140230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/10_TensorFlow深入、TensorBoard可视化【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$shujuchul.coverage" NAME="shujuchul Coverage Results" MODIFIED="1607935660883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$18_convolution.coverage" NAME="18_convolution Coverage Results" MODIFIED="1608276684057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$01_keras_model_sequential.coverage" NAME="01_keras_model_sequential Coverage Results" MODIFIED="1607599331636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/已看资料/机器学习/15_Keras深度学习框架【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$tensorflow_cnn_cifar10.coverage" NAME="tensorflow_cnn_cifar10 Coverage Results" MODIFIED="1608277383873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/13_卷积神经网络、CNN识别图片【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$iris1.coverage" NAME="iris1 Coverage Results" MODIFIED="1608345243590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$02_keras_model_model.coverage" NAME="02_keras_model_model Coverage Results" MODIFIED="1608007001739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/15_Keras深度学习框架【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$19_pooling.coverage" NAME="19_pooling Coverage Results" MODIFIED="1607935284384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/已看资料/机器学习/10_TensorFlow深入、TensorBoard可视化【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$01_keras_model_sequential_.coverage" NAME="01_keras_model_sequential_ Coverage Results" MODIFIED="1608006959676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/15_Keras深度学习框架【尚学堂·百战程序员】/02.代码/代码" />
+    <SUITE FILE_PATH="coverage/$ls.coverage" NAME="ls Coverage Results" MODIFIED="1608370091791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$11_placeholder.coverage" NAME="11_placeholder Coverage Results" MODIFIED="1608018859967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/计算机/机器学习/10_TensorFlow深入、TensorBoard可视化【尚学堂·百战程序员】/02.代码/代码" />
+  </component>
+</project>
